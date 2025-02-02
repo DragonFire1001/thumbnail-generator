@@ -26,6 +26,8 @@ body {
     width: 100%;
     height: auto;
     display: block;
+    width: 360px;
+    height: 205px;
 }
 
 /* Duration label overlay */
