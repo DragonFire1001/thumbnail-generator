@@ -1,2 +1,2 @@
 # youtube video mimic
- mimics youttube video
+ mimics youtube video
